@@ -1,2 +1,2 @@
 # petcare2.0
-site
+http://aperturepc.github.io/petcare2.0/
